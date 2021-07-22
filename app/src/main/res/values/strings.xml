@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SecureSign</string>
+
+    <!-- Activity login y sign in -->
+    <string name="nameuser">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="repeatpassword">Repetir contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signin">Registrar usuario</string>
+    <string name="createuser">Crear usuario</string>
+
+    <!-- -->
+
+    <!-- Activity menu principal -->
+    <string name="seasons">Campañas</string>
+    <string name="workers">Trabajadores</string>
+    <string name="workday">Jornada</string>
+    <string name="settings">Ajustes</string>
+    <string name="signout">Salir</string>
+
+    <!-- -->
+
+    <!-- Activity crear campaña -->
+    <string name="nameSeason">Nombre Campaña</string>
+    <string name="hourprice">Precio hora</string>
+    <string name="overtimeprice">Precio hora extra</string>
+    <string name="year">Año</string>
+    <string name="startdate">Fecha de inicio</string>
+    <string name="enddate">Fecha final</string>
+    <string name="createseason">Crear nueva campaña</string>
+
+    <!-- -->
+
+    <!-- Activity crear trabajador -->
+    <string name="nameWorker">Nombre</string>
+    <string name="surnameWorker">Apellido</string>
+    <string name="nifnie">NIF o NIE</string>
+    <string name="fingerPrintWorker">Huella dactilar</string>
+    <string name="createNewWorker">Crear nuevo trabajador</string>
+
+    <!-- -->
+
+
+</resources>

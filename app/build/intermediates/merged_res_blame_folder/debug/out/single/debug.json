@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_campaign.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_campaign.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recycled_workers.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_recycled_workers.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_finger.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_finger.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_workers.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_workers.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recycled_jnd_workers.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_recycled_jnd_workers.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flechaderecha.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_flechaderecha.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_worker.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\item_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_white.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\btn_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lg_garlic.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\lg_garlic.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_flecha_jornada.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_flecha_jornada.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jornadas.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\item_jornadas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_white.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\et_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_season.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_new_season.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_worker.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_jndworker.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\item_jndworker.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_season.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_season.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_green.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_worker.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_new_worker.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_lightgreen.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\btn_lightgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recycled_seasons.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_recycled_seasons.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_lightgreen.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\et_lightgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_active_seasons.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_active_seasons.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_flechajornadagrande.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable-v24\\ic_flechajornadagrande.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_season.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\item_season.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lg_name.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\lg_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rvtrjornadas.xml.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\layout\\activity_rvtrjornadas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_signout.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\drawable\\ic_signout.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jfer1\\Documents\\DAM\\ProyectoFinal\\ProyectoAndroid\\SecureSign\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]

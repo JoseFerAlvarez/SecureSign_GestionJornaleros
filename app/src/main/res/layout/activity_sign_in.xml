@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivitySignIn"
+    android:background="@color/greenapp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/spacelogin1height" />
+
+        <ImageView
+            android:id="@+id/imgAjo"
+            android:layout_width="@dimen/logogarlicloginwidth"
+            android:layout_height="@dimen/logogarlicloginheight"
+            app:srcCompat="@drawable/lg_garlic" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/spacelogin2height" />
+
+        <EditText
+            android:id="@+id/etNomReg"
+            android:layout_width="@dimen/et_width"
+            android:layout_height="@dimen/et_height"
+            android:layout_margin="@dimen/et_layoutmargin"
+            android:background="@drawable/et_white"
+            android:drawableLeft="@drawable/ic_user"
+            android:drawablePadding="@dimen/et_drawablepadding"
+            android:hint="@string/nameuser"
+            android:inputType="textPersonName"
+            android:padding="@dimen/et_padding" />
+
+        <EditText
+
+            android:id="@+id/etContraReg"
+            android:layout_width="@dimen/et_width"
+            android:layout_height="@dimen/et_height"
+            android:layout_margin="@dimen/et_layoutmargin"
+            android:background="@drawable/et_white"
+            android:drawableLeft="@drawable/ic_password"
+            android:drawablePadding="@dimen/et_drawablepadding"
+            android:hint="@string/password"
+            android:inputType="textPassword"
+            android:padding="@dimen/et_padding" />
+
+        <EditText
+            android:id="@+id/etRepContraReg"
+            android:layout_width="@dimen/et_width"
+            android:layout_height="@dimen/et_height"
+            android:layout_margin="@dimen/et_layoutmargin"
+            android:background="@drawable/et_white"
+            android:drawableLeft="@drawable/ic_password"
+            android:drawablePadding="@dimen/et_drawablepadding"
+            android:hint="@string/repeatpassword"
+            android:inputType="textPassword"
+            android:padding="@dimen/et_padding" />
+
+        <Button
+            android:id="@+id/btnAcepReg"
+            android:layout_width="@dimen/btnG_width"
+            android:layout_height="@dimen/btnG_height"
+            android:layout_margin="@dimen/btnG_layoutmargin"
+            android:background="@drawable/btn_white"
+            android:padding="@dimen/btnG_padding"
+            android:text="@string/createuser" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

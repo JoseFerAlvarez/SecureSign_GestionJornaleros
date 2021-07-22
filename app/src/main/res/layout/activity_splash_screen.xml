@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/greenapp"
+    tools:context=".ActivitySplashScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/spaceload1height" />
+
+        <ImageView
+            android:id="@+id/lggarlic"
+            android:layout_width="@dimen/logogarlicloadwidth"
+            android:layout_height="@dimen/logogarlicloadheight"
+            app:srcCompat="@drawable/lg_garlic" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/spaceload2height" />
+
+        <ImageView
+            android:id="@+id/lgname"
+            android:layout_width="@dimen/logonamewidth"
+            android:layout_height="@dimen/logonameheight"
+            app:srcCompat="@drawable/lg_name" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

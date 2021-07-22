@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="match_parent" format="integer" type="dimen">-1</item>
+    <item name="wrap_content" format="integer" type="dimen">-2</item>
+
+    <!--EditText-->
+    <dimen name="et_height">@dimen/wrap_content</dimen>
+    <dimen name="et_width">@dimen/match_parent</dimen>
+
+    <dimen name="et_layoutmargin">12dp</dimen>
+    <dimen name="et_drawablepadding">12dp</dimen>
+    <dimen name="et_padding">8dp</dimen>
+
+    <!-- -->
+
+    <!--BotonGrande-->
+    <dimen name="btnG_height">@dimen/wrap_content</dimen>
+    <dimen name="btnG_width">@dimen/match_parent</dimen>
+    <dimen name="btnG_layoutmargin">5dp</dimen>
+    <dimen name="btnG_padding">5dp</dimen>
+
+    <!-- -->
+
+    <!-- Pantalla de carga -->
+    <dimen name="logogarlicloadheight">100dp</dimen>
+    <dimen name="logogarlicloadwidth">@dimen/match_parent</dimen>
+
+    <dimen name="logonameheight">@dimen/wrap_content</dimen>
+    <dimen name="logonamewidth">@dimen/match_parent</dimen>
+
+    <dimen name="spaceload1height">37dp</dimen>
+    <dimen name="spaceload2height">150dp</dimen>
+
+    <!-- -->
+
+    <!--Pantalla login-->
+    <dimen name="logogarlicloginheight">75dp</dimen>
+    <dimen name="logogarlicloginwidth">@dimen/match_parent</dimen>
+    <dimen name="spacelogin1height">60dp</dimen>
+    <dimen name="spacelogin2height">50dp</dimen>
+
+    <!-- -->
+
+    <!-- Menu principal -->
+    <dimen name="menuspace1height">170dp</dimen>
+    <dimen name="menuspace2height">100dp</dimen>
+    <dimen name="menuspace3height">50dp</dimen>
+
+    <dimen name="menullwidth">135dp</dimen>
+    <dimen name="menullpad">5dp</dimen>
+    <dimen name="menullpadstend">15</dimen>
+
+    <dimen name="menuibheight">100dp</dimen>
+
+    <dimen name="menutextsize">16sp</dimen>
+    <dimen name="menutextseason">24sp</dimen>
+
+    <!-- -->
+
+</resources>
